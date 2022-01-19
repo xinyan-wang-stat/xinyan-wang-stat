@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xinyan-wang-stat
 - 👀 I’m interested in statistics. 
-- 🌱 I’m currently learning Data science.
+- 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on machine learning and statistical learning.
 - 📫 Reach me at xinyanwang2019@gmail.com.
 
